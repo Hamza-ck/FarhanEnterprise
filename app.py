@@ -296,7 +296,7 @@ def calculate_total_expenses(expenses_df):
 
 # -------------------- Streamlit UI --------------------
 st.set_page_config(page_title="Inventory Tracker", layout="wide")
-st.title("📦 Inventory Tracker")
+st.title("📦 Farhan Enterprise")
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 Dashboard", "🛒 Purchase", "💸 Sales", "📁 Expense", "📦 Stock"])
 
